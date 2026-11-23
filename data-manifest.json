@@ -1,0 +1,37 @@
+{
+
+  "repository": "afroditevtin-maker/AngraDistritoCityData",
+
+  "release": "v1.1.4",
+
+  "data": {
+
+    "filename": "angra-classico.zip",
+
+    "size_bytes": 858282700,
+
+    "size_extracted_bytes": 2035707221,
+
+    "sha256": "6b78217b0883b85694641d6cfa435363c6636941842a6e52e5fae8fe5a92b206",
+
+    "url": "https://github.com/afroditevtin-maker/AngraDistritoCityData/releases/download/v1.1.4/angra-classico.zip"
+
+  },
+
+  "apk": {
+
+    "filename": "AngraDistritoCity-v3.44.apk",
+
+    "version_name": "3.44",
+
+    "version_code": 238,
+
+    "size_bytes": 84943812,
+
+    "sha256": "a73a17c6228d0caca3c94c7dfd8b8d5e1eab6dda21c8948a99341acc564fec97",
+
+    "url": "https://github.com/afroditevtin-maker/AngraDistritoCityData/releases/download/v1.1.4/AngraDistritoCity-v3.44.apk"
+
+  }
+
+}
